@@ -32,5 +32,10 @@ A web-based ERP for distribution and trading businesses: accounting, inventory, 
 ## 🤝 Need something similar?
 
 I build custom ERP, hotel, pharmacy and ordering systems, and modernize legacy WinForms / VB.NET apps to ASP.NET Core. See my [profile](https://github.com/SalmanDosani-Dev) for more.
-# erp-accounting-inventory-aspnetcore
-ERP with accounting and inventory modules on ASP.NET Core and SQL Server
+
+## 📸 Screenshots
+
+| | |
+|---|---|
+| ![Dashboard](screenshots/dashboard.jpg) | ![Parties](screenshots/parties.jpg) |
+| ![Screen 3](screenshots/screen-3.jpg) | |
